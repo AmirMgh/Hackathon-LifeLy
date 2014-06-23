@@ -4,7 +4,7 @@
 steroids.config.name = "LifeLy"
 
 # ## Start Location
-steroids.config.location = "http://localhost/index.html"
+steroids.config.location = "http://localhost/views/welcome/index.html"
 
 # ## Tab Bar
 # steroids.config.tabBar.enabled = true
@@ -21,12 +21,12 @@ steroids.config.location = "http://localhost/index.html"
 #   }
 # ]
 
-# steroids.config.tabBar.tintColor = "#000000"
-# steroids.config.tabBar.tabTitleColor = "#00aeef"
-# steroids.config.tabBar.selectedTabTintColor = "#ffffff"
-# steroids.config.tabBar.selectedTabBackgroundImage = "icons/pill@2x.png"
+steroids.config.tabBar.tintColor = "#000000"
+steroids.config.tabBar.tabTitleColor = "#00aeef"
+steroids.config.tabBar.selectedTabTintColor = "#ffffff"
+steroids.config.tabBar.selectedTabBackgroundImage = "icons/background.png"
 
-# steroids.config.tabBar.backgroundImage = ""
+steroids.config.tabBar.backgroundImage = "icons/background.png"
 
 # ## Preloads
 # steroids.config.preloads = [
